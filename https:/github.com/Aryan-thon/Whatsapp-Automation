@@ -1,0 +1,7 @@
+import pywhatkit
+import pywhatkit as kit
+import emoji
+
+# AUTOMATIC WHATSAPP SENDER
+pywhatkit.sendwhatmsg( '+919823850369', ' HAPPIEST BORNDAY BROTHER , MAY YOUR FURTHER YEAR BRING YOU MORE HAPPINESS \n'
+                                        'MAY YOUR FURTHER YEAR BRING YOU LOTS OF SUCCESS.............. \n , 24,00)
